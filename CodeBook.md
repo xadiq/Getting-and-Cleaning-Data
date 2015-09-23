@@ -3,6 +3,7 @@ Introduction
 The script run_analysis.R does following as per instruction in course project.
 
 1 -  Read all files for subject data, training data and test data.
+
 2 -  Merge training dataset with test dataset for measurement and create data set by name DataX
 3 -  Merge training dataset with test dataset for activities  and create data set by name DataY
 4 -  Merge training dataset with test dataset for subjects and create data set by name Subjects. Also, changes to appropriate column name
