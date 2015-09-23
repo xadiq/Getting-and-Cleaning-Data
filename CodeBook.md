@@ -10,6 +10,7 @@ The script run_analysis.R does following as per instruction in course project.
 6 -  Using indices from vector featuresMS, subset DataX frame to get measurement column only for mean and standard deviation
 7 -  Read activity file to get description for each activity
 8 -  Update activity dataset (DataY) with appropriate description from step 7.
-9 -  Update column name for activity data set 
+9 -  Update column name for activity data set
 10 - merge all DataX, DataY and Subjects dataset using cbind into FinalData data set
 11 - Create Tidy data set with the average of each variable for each activity and each subject.
+12 - run_analysis finally returs dataset AverageDF
